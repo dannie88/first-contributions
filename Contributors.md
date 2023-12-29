@@ -631,6 +631,7 @@
 - [Md Faizan](https://github.com/thesuaveguy)
 - [Stefan Ni](https://github.com/Stefan2Ni)
 - [Andrey Simanovich](https://github.com/asktosimon)
+- [hassanzahidd] (https://github.com/dannie88/)
 - [Clint Simiyu](https://github.com/Clint171)
 - [Ana Souza](https://github.com/analiciasouza)
 - [Johnny Eve](https://github.com/johnnyeve)
